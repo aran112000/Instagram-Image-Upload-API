@@ -1,3 +1,4 @@
+<?php
 /**
  * Class instagram_post
  */
